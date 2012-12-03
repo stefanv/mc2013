@@ -1,4 +1,3 @@
-mc2013
-======
+# mc2013
 
-filtered Pn project with Simon
+Filtered Pn project with Simon.
